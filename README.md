@@ -4,11 +4,11 @@ CODE_NEXUS
 
 ## Team members
 
- Aaryan Raj - Lead
- Sakshi Sharma
- Atul Raj
- Harshit Kumar
- Shubham Kumar Gaurav
+ Aaryan Raj - Lead #
+ Sakshi Sharma #
+ Atul Raj #
+ Harshit Kumar #
+ Shubham Kumar Gaurav #
  
  ## Idea - Google Docs
  
