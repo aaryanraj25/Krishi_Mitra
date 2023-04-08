@@ -25,11 +25,13 @@ CODE_NEXUS
 
  ## Repository (Folder) link
  
- Website : https://github.com/aarynmtive/Code_Nexus_Hackfest/tree/main/Website
+ Website : https://github.com/aarynmtive/Code_Nexus_Hackfest/tree/main/Website 
+
  App :
+
  Backend :
 
 
 
  ## Figma - Design
- https://www.figma.com/file/kVKm9w9HNB9s7WBr285RPY/Krishi-Mitra?node-id=0%3A1&t=QhWUqn99KtYraxTy-1
+
