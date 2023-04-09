@@ -1,0 +1,21 @@
+.heading{
+    margin-left: 40px;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    background-color: white;
+}
+
+#mylogo{
+    height: 60px;
+    margin-left: 20px;
+}
+
+.image-container {
+    background-image: url('img\Rent_pop_up.jpg');
+    background-position: center;
+    background-size: 50%;
+  }

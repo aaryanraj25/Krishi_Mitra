@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rent</title>
+    <link rel="stylesheet" href="sbre.css">
+</head>
+<body background="img4/background.jpg">
+    <div class="hedder" >
+        <div class="navbar">
+            <img src="img4/Logo.png" id="mylogo">
+
+            <div class="heading">
+                <h1>Krishi Mitra</h1>
+            </div>
+        </div>
+    </div>
+    
+
+
+    <form>
+
+		<label for="name">Equipment Name:</label>
+		<input type="text" id="name" name="name"><br>
+
+        <label for="price">Price:</label>
+        <input type="number" id="price" name="price" step="0.01" min="0" placeholder="0.00" required>
+        <br>
+		<label for="location">Location</label>
+		<input type="location" id="location" name="location"><br>
+
+        <label for="phone">Mobile Number:</label>
+        <input type="tel" id="phone" name="phone" placeholder="Enter your mobile number" required>
+        <br>
+        <label for="start_date">Start Date:</label>
+        <input type="date" id="start_date" name="start_date" min="2023-04-09" max="2023-04-30" required>
+
+        <label for="end_date">End Date:</label>
+        <input type="date" id="end_date" name="end_date" min="2023-04-09" max="2023-04-30" required>
+
+		<input type="submit" value="Submit">
+	</form>
+    
+</body>
+</html>

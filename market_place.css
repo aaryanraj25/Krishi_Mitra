@@ -1,0 +1,102 @@
+body{
+    background-image: url("Background for marketplace.jpg");
+}
+
+.hedder{
+    
+    background-color: #f7f8f9;
+    box-shadow: 0 0 2px grey;
+    position: sticky;
+    top: 0%;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height:70px;
+    background-color: #070A52;
+}
+
+.navbar img{
+    width: 70px;
+    margin-left: 2%;
+}
+
+h1{
+    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+}
+
+.heading{
+    margin-left: 40px;
+    color: white;
+}
+
+.box{
+    background-color: #070A52;
+    height: 200px;
+    width: 60%;
+    text-align: center;
+    margin-top:20rem;
+    margin-left: 20rem;
+    border: 1px solid black
+}
+h2 {
+    margin-top: 0;
+    color: #f7f8f9;
+  }
+
+.logo{
+    display: inline-block;
+    width: 28%;
+    margin-top: -43px;
+    margin-right: 100%;
+
+}
+  
+  .box ul {
+    position: relative;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    color: #f7f8f9;
+    margin-top:-9.5rem;
+    margin-left: 15rem;
+    font-size: 22px;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+.box{
+    background-color: #070A52;
+    height: 200px;
+    width: 50%;
+    text-align: center;
+    margin-top: 4rem;
+    margin-left: 20rem;
+    border: 1px solid black
+}
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #131d75;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-left: 47%;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
